@@ -1,0 +1,3 @@
+[submodule "bluetooth/bluetooth_applications"]
+	path = bluetooth/bluetooth_applications
+	url = https://github.com/SiliconLabsSandbox/test_bluetooth_applications.git
