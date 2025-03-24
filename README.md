@@ -1,3 +1,18 @@
+<table border="0">
+  <tr>
+    <td align="left" valign="middle">
+    <h1>EFM32 and EFR32<br/>Application Examples</h1>
+  </td>
+  <td align="left" valign="middle">
+    <a href="https://www.silabs.com/products/wireless">
+      <img src="http://pages.silabs.com/rs/634-SLU-379/images/WGX-transparent.png"  title="Silicon Labs Gecko and Wireless Gecko MCUs" alt="EFM32 32-bit Microcontrollers" width="250"/>
+    </a>
+  </td>
+  </tr>
+</table>
+
+![Static Badge](https://img.shields.io/badge/Security_Support-Not_Supported-red)
+
 # Silicon Labs Application Examples Community #
 
 ## Introduction
