@@ -1,3 +1,24 @@
-[submodule "bluetooth/bluetooth_applications"]
-	path = bluetooth/bluetooth_applications
-	url = https://github.com/SiliconLabsSandbox/test_bluetooth_applications.git
+[submodule "matter/community-matter-applications"]
+	path = matter/community-matter-applications
+	url = https://github.com/SiliconLabsSandbox/community-matter-applications.git
+[submodule "bluetooth/community-bluetooth-mesh-applications"]
+	path = bluetooth/community-bluetooth-mesh-applications
+	url = https://github.com/SiliconLabsSandbox/community-bluetooth-mesh-applications.git
+[submodule "openthread/community-openthread-applications"]
+	path = openthread/community-openthread-applications
+	url = https://github.com/SiliconLabsSandbox/community-openthread-applications.git
+[submodule "zephyr/community-zephyr-applications"]
+	path = zephyr/community-zephyr-applications
+	url = https://github.com/SiliconLabsSandbox/community-zephyr-applications.git
+[submodule "bluetooth/community-bluetooth-applications"]
+	path = bluetooth/community-bluetooth-applications
+	url = https://github.com/SiliconLabsSandbox/community-bluetooth-applications.git
+[submodule "platform/community-platform-applications"]
+	path = platform/community-platform-applications
+	url = https://github.com/SiliconLabsSandbox/community-platform-applications.git
+[submodule "zigbee/community-zigbee-applications"]
+	path = zigbee/community-zigbee-applications
+	url = https://github.com/SiliconLabsSandbox/community-zigbee-applications.git
+[submodule "circuitpython/community-circuitpython-applications"]
+	path = circuitpython/community-circuitpython-applications
+	url = https://github.com/SiliconLabsSandbox/community-circuitpython-applications.git
